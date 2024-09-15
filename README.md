@@ -1,3 +1,5 @@
+Fork of the EditorJs.
+
 <p align="center">
   <a href="https://editorjs.io/">
     <picture>

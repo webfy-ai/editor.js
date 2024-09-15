@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/editorjs",
+  "name": "@webfy/editorjs",
   "version": "2.30.6",
   "description": "Editor.js — open source block-style WYSIWYG editor with JSON output",
   "main": "dist/editorjs.umd.js",
